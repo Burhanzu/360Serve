@@ -1,0 +1,40 @@
+#title {
+    /* background-color: darkkhaki; */
+}
+
+#Cover {
+    position: relative;
+    overflow: hidden;
+}
+
+.navbar {
+    padding: 25px;
+    background-color: greenyellow;
+}
+
+.navbar-brand {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.header {
+    font-family: Montserrat-Black;
+    line-height: 1.5;
+    color: white;
+    font-weight: bold;
+    font-size: 3.5rem;
+    padding: 25px;
+    margin: 30px;
+    position: absolute;
+    /* z-index: 1; */
+    top: 50px;
+    /* transform: translate(-50%, -50%); */
+}
+
+.office_img {
+    position: relative;
+    overflow: hidden;
+    object-fit: cover;
+    height: 600px;
+}
